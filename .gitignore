@@ -1,4 +1,5 @@
 */.vscode
 *.png
 *.gif
+**/.ipynb_checkpoints
 
